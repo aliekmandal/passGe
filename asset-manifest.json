@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/passGe/static/css/main.5cb83760.chunk.css",
+    "main.js": "/passGe/static/js/main.3c416935.chunk.js",
+    "main.js.map": "/passGe/static/js/main.3c416935.chunk.js.map",
+    "runtime-main.js": "/passGe/static/js/runtime-main.5b2c79c0.js",
+    "runtime-main.js.map": "/passGe/static/js/runtime-main.5b2c79c0.js.map",
+    "static/css/2.97503911.chunk.css": "/passGe/static/css/2.97503911.chunk.css",
+    "static/js/2.13abf796.chunk.js": "/passGe/static/js/2.13abf796.chunk.js",
+    "static/js/2.13abf796.chunk.js.map": "/passGe/static/js/2.13abf796.chunk.js.map",
+    "static/js/3.e1cc6196.chunk.js": "/passGe/static/js/3.e1cc6196.chunk.js",
+    "static/js/3.e1cc6196.chunk.js.map": "/passGe/static/js/3.e1cc6196.chunk.js.map",
+    "index.html": "/passGe/index.html",
+    "static/css/2.97503911.chunk.css.map": "/passGe/static/css/2.97503911.chunk.css.map",
+    "static/css/main.5cb83760.chunk.css.map": "/passGe/static/css/main.5cb83760.chunk.css.map",
+    "static/js/2.13abf796.chunk.js.LICENSE.txt": "/passGe/static/js/2.13abf796.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b2c79c0.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.13abf796.chunk.js",
+    "static/css/main.5cb83760.chunk.css",
+    "static/js/main.3c416935.chunk.js"
+  ]
+}
